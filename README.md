@@ -6,11 +6,11 @@ App desenvolvido no módulo Criando um app de cartão de visitas em Kotlin do bo
 ****
 ## Screenshots
 
-![Img_1](Img_1.png)
+![img](img.png)
 
-![Img_2](Img_2.png)
+![img2](img2.png)
 
-![Img_3](Img_3.png)
+![img3](img3.png)
 
 ****
 
